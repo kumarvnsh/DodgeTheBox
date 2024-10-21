@@ -1,0 +1,15 @@
+{
+    "name": "Dodge The Box",
+    "short_name": "Dodge The Box",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#000000",
+    "theme_color": "#000",
+    "description": "Dodge The Box",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
